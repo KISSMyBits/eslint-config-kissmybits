@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-kissmybits",
+  "version": "1.0.0",
+  "description": "ESLint config for KISSMyBits EcmaScript coding style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KISSMyBits/eslint-config-kissmybits.git"
+  },
+  "keywords": [
+    "eslint",
+    "kissmybits"
+  ],
+  "author": "Michel Tomas <michel@kissmybits.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KISSMyBits/eslint-config-kissmybits/issues"
+  },
+  "homepage": "https://github.com/KISSMyBits/eslint-config-kissmybits#readme"
+}
