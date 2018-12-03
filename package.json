@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-kissmybits",
-  "version": "1.0.0",
+  "name": "@kissmybits/eslint-config-kissmybits",
+  "version": "0.0.1",
   "description": "ESLint config for KISSMyBits EcmaScript coding style",
   "main": "index.js",
   "scripts": {
